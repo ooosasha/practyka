@@ -51,7 +51,6 @@ header.header {
     padding: 16px 30px;
 }
 
-/* Логотип */
 .logo {
     width: 100px;
     height: auto;
@@ -68,7 +67,6 @@ header.header {
 
 }
 
-/* Заголовки */
 h2, h3 {
     text-align: center;
     font-weight: 600;
@@ -94,8 +92,6 @@ p {
 
 }
 
-
-/* Кнопки */
 .button {
     padding: 10px 20px;
     background-color: #007bff;
@@ -250,7 +246,7 @@ p {
     display: grid;
     gap: 20px;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    max-width: 1200px; /* Максимальна ширина блоку */
+    max-width: 1200px;
     margin: 20px auto;
     padding: 10px;
     border: 1px solid #ddd;
@@ -531,7 +527,6 @@ p {
   transform: rotate(180deg);
 }
 
-/*кнопка наверх*/
 
 
 
